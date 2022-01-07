@@ -9,6 +9,11 @@ module.exports = {
 
     theme: {
         extend: {
+            spacing: {
+                70: '17.5rem',
+                175: '43.75rem',
+                custom: '62.5rem'
+            },
             fontFamily: {
                 sans: ['Nunito', ...defaultTheme.fontFamily.sans],
             },

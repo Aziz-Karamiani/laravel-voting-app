@@ -53,9 +53,10 @@
             </div>
         </header>
         <div class="container mx-auto flex w-custom">
-            <div class="w-70 mr-5">
-                Idea goes here.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam consequuntur dolores praesentium reiciendis sunt. Accusantium ad aliquam animi atque consequatur debitis dignissimos distinctio dolores ea eos esse eum, maiores neque nostrum quia ratione sed temporibus? Dolore eum fugit omnis totam. Distinctio fugiat quia repudiandae. Autem consectetur deserunt labore quae tenetur unde voluptas. Ab ad aliquid aperiam architecto beatae consequatur cumque debitis dicta dolorum enim ex excepturi illum inventore laudantium magni maiores neque nihil non nulla, numquam odio possimus praesentium quisquam quos, reiciendis sapiente similique sit suscipit ullam ut vel, velit vitae voluptatem! Beatae laboriosam molestias, nostrum possimus quae quasi voluptas.
+            <div class="w-70 mr-5 mt-8">
+                <div class="bg-white rounded w-100" style="height: 400px;">
+
+                </div>
             </div>
             <div class="w-175">
                 <nav class="flex justify-between items-center text-xs">
